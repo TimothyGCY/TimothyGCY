@@ -9,14 +9,14 @@
 	"website": "https://bleckshiba.com",
 	"occupation": "mobile application developer",
 	"stacks": [
-		"Java",
-		"Kotlin",
 		"Flutter Dart",
+		"Java",
+		"Golang",
 		"React Native JS & TS",
 		"React JS & TS"
 	],
 	"learning": ["Golang", "Swift", "Obj-C"],
-	"workingOn": ["bleck_markdown"],
+	"workingOn": ["flutter_keystore", "bleck_markdown"],
 }
 ```
 ---

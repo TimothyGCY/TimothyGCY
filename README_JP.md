@@ -7,14 +7,14 @@
 	"ウェブサイト": "https://bleckshiba.com",
 	"職業": "携帯アプリ開発者",
 	"言語": [
-		"Java",
-		"Kotlin",
 		"Flutter Dart",
+		"Java",
+		"Golang",
 		"React Native JS とTS",
 		"React JS とTS"
 	],
 	"勉強中": ["Golang", "Swift", "Obj-C"],
-	"作業中": ["bleck_markdown"],
+	"作業中": ["flutter_keystore", "bleck_markdown"],
 }
 ```
 ---
