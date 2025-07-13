@@ -11,10 +11,11 @@
 		"Java",
 		"Golang",
 		"React Native JS とTS",
-		"React JS とTS"
+		"React JS とTS",
+        "Golang"
 	],
-	"勉強中": ["Golang", "Swift", "Obj-C"],
-	"作業中": ["flutter_keystore", "bleck_markdown"],
+	"勉強中": ["Unity"],
+	"作業中": ["flutter_keystore", "bleck_markdown", "flutter_widget_to_pdf"],
 }
 ```
 ---

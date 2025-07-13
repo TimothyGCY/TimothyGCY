@@ -13,10 +13,11 @@
 		"Java",
 		"Golang",
 		"React Native JS & TS",
-		"React JS & TS"
+		"React JS & TS",
+        "Golang"
 	],
-	"learning": ["Golang", "Swift", "Obj-C"],
-	"workingOn": ["flutter_keystore", "bleck_markdown"],
+	"learning": ["Unity"],
+	"workingOn": ["flutter_keystore", "bleck_markdown", "flutter_widget_to_pdf"],
 }
 ```
 ---
