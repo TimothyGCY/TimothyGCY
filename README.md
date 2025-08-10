@@ -9,7 +9,7 @@
     "website": "https://bleckshiba.com",
     "occupation": "Full Stack Developer",
     "techStacks": ["Flutter", "Java", "Golang", "React Native", "ReactJS"],
-    "learning": ['"Unity"],
+    "learning": ["Unity"],
     "workingOn": ["bleck_markdown", "flutter_widget_to_pdf"],
     "published": ["flutter_keystore", "todo.nvim"]
 }
